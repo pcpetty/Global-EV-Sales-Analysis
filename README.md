@@ -27,10 +27,28 @@ The dataset used in this project is sourced from the [International Energy Agenc
 2. **Powertrain Trends**: Battery Electric Vehicles (BEVs) show the highest growth, driven by advancements in battery technology and reduced costs.
 3. **Market Evolution**: The global EV market shows a steady increase in sales and stock share, indicating a positive outlook for future growth.
 
+## Visualizations
+
+### 1. EV Sales Over Time
+![output_14_0](https://github.com/user-attachments/assets/f1dce030-98a3-4ec5-b90e-061ba38090cd)
+
+This line plot shows the growth of EV sales over the years, highlighting the increasing adoption of electric vehicles globally.
+
+### 2. Distribution of EV Share By Region
+![output_14_0](https://github.com/user-attachments/assets/4e623c69-b98e-4d82-8c2c-8a33ca0e2ca1))
+
+This bar chart illustrates the average EV stock share across different regions, showcasing which areas are leading in EV adoption.
+
+### 3. Correlation between EV Stock Share and EV Sales Share
+
+![output_28_0](https://github.com/user-attachments/assets/f23c4f78-29a0-4cd0-9cc7-5b647c6f1e49)
+
+This histogram displays the distribution of EV sales, providing insights into the common sales volumes and the overall spread of the data.
+
 ## How to Run the Project
 
 1. Clone the repository:
-  ```bash
+  ```bash!
   git clone https://github.com/your-username/Global-EV-Sales-Analysis.git
   ```
 
