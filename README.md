@@ -34,8 +34,9 @@ The dataset used in this project is sourced from the [International Energy Agenc
 
 This line plot shows the growth of EV sales over the years, highlighting the increasing adoption of electric vehicles globally.
 
-### 2. Distribution of EV Share By Region
-![output_14_0](https://github.com/user-attachments/assets/4e623c69-b98e-4d82-8c2c-8a33ca0e2ca1))
+### 2. Regional Breakdown of EV Sales Share
+![output_18_0](https://github.com/user-attachments/assets/63766c01-363f-497b-a8cb-110784e01a1e)
+
 
 This bar chart illustrates the average EV stock share across different regions, showcasing which areas are leading in EV adoption.
 
